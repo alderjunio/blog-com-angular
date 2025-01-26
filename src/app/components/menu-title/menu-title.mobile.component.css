@@ -1,0 +1,15 @@
+@media screen and (max-width:576px) {
+    
+    .container__menu-title{   
+        color: #ffffff;
+        text-align: center;
+        
+        width: 100%;       
+    }
+    
+    .container__menu-title > h1{   
+       
+        font-size: 22px;
+    }
+    
+}

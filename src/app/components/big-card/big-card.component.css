@@ -1,15 +1,18 @@
 .container__big-card{
     /* border: 2px solid gray; */
-    height: 420px;
+    height: auto;
     width: 500px;
 
-    margin-right: 20px;
+    margin-right: 50px;
     margin-bottom: 20px;
 
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
+    
+    padding: 10px;
+
 }
 
 .big-card__photo > img{

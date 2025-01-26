@@ -1,7 +1,11 @@
 .container__small-card{
     /* border: 2px solid blue; */
     width: 450px;
+    height: auto;
     margin-bottom: 15px;
+
+    /* background-color: chartreuse; */
+    padding: 10px;
 }
 
 .container__small-card-content{
