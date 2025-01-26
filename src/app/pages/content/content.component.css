@@ -9,6 +9,7 @@
     align-items: center;
     margin: auto;
     margin-top: 20px;
+    margin-bottom: 30px;
 }
 
 .content_title > h1{
@@ -22,10 +23,19 @@
 .content__description{
     margin-top: 15px;
     text-indent: 50px;
-    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .content__description > p{
     color: grey;
     margin-top: 20px;
+    text-align: justify;
+    margin-bottom: 20px;
 }
+
+.content__description > a{
+    margin-bottom: 40px;
+}
+
